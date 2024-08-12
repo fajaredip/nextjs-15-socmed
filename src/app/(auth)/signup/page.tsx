@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import signUpImage from "@/assets/signup-image.jpg";
 import Image from "next/image";
 import Link from "next/link";
-import SignUpForm from "./signUpForm";
+import SignUpForm from "./SignUpForm";
 
 export const metadata: Metadata = {
   title: "Sign Up",
