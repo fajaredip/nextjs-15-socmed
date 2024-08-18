@@ -22,6 +22,7 @@ export default function PostEditor() {
         placeholder: "What's happening?",
       }),
     ],
+    immediatelyRender: false,
   });
 
   const input =
